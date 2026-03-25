@@ -1,0 +1,4 @@
+interface:
+  display_name: "Oracle AWR Result Review"
+  short_description: "Review oracle-awr-analysis outputs with senior Oracle DBA rigor"
+  default_prompt: "Review oracle-awr-analysis results, challenge weak conclusions, and produce a senior Oracle DBA quality assessment."

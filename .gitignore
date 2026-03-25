@@ -1,0 +1,8 @@
+*
+!.gitignore
+!.gitattributes
+!.codex/
+.codex/*
+!.codex/skills/
+!.codex/skills/**
+.codex/skills/**/node_modules/

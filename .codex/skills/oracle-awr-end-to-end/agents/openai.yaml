@@ -1,0 +1,4 @@
+interface:
+  display_name: "Oracle AWR End-to-End"
+  short_description: "Analyze, review, and finalize Oracle AWR reports."
+  default_prompt: "Use $oracle-awr-end-to-end to analyze Oracle AWR inputs, review the conclusions, fix the Markdown if needed, and regenerate the Word report."
